@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 7rem;
+    background-color: lightgray;
+}
+
+.qr-code {
+    padding: 4rem;
+}
+
